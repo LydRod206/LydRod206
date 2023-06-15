@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LydRod206)](https://github.com/LydRod206/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LydRod206&layout=compact)
 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
